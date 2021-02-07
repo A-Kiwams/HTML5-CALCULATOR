@@ -5,11 +5,11 @@ let box = document.getElementById('display');
 
 // create  a function to display no on text box upon clicking on a button
 function addtoscreen(x){
-box.value +=x;
-   if (x == 'c')
-   {
-     box.value = '';
-   }
+    box.value +=;
+    if (x == 'c')
+    {
+        box.value = '';
+    }
 }
 
 // create a function to display answer
