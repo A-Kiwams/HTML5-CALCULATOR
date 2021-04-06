@@ -1,4 +1,4 @@
-// Logic for the calculator 
+// Functionality Logic
 
 // declare variable box to hold numbers
 let box = document.getElementById('display');
